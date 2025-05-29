@@ -1,8 +1,8 @@
 # giveaway uma musume
 Nama Penyelenggara
 
-Evanezarewaldo
-Ferdyy
+Evanezarewaldo <br>
+Ferdyy <br>
 Nico Nico
 Fadillah
 Muhammad Fahriz
