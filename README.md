@@ -31,8 +31,8 @@ Bakuru Tofa <br>
 Nguyễn Ưan Ứinu <br>
 Ilham Maulana <br>
 Kishan Aldiya Taqiyudin <br>
-Ini Akn <br> <br>
-Namil
+Ini Akn <br>
+Namil <br>
 Ananda Jumadila <br>
 Ridho Arifianto <br>
 ZA <br>
