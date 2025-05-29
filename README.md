@@ -1,6 +1,5 @@
 # giveaway uma musume
-Nama Penyelenggara
- <br> <br>
+<br>
 Evanezarewaldo <br>
 Ferdyy <br>
 Nico Nico <br>
